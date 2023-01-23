@@ -36,7 +36,7 @@
 
 10. Run the command "flutter run" or "flutter run -d <emulator-id>" to run the app on the emulator.
 
-# Note: Keep in mind that the first time you run an app on the emulator, it may take some time to start up, so be patient. Also make sure your emulator is running before running the command "flutter run"
+## Note: Keep in mind that the first time you run an app on the emulator, it may take some time to start up, so be patient. Also make sure your emulator is running before running the command "flutter run"
 
 https://user-images.githubusercontent.com/71991617/214118432-1e0cbbfa-b3c8-4b52-8d59-29fca236ee45.mp4
 
