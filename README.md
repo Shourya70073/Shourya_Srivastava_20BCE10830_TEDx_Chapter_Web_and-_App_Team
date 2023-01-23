@@ -16,27 +16,27 @@
 
 ## Here are the steps to run an app on an Android emulator:-
 
-1.Install and set up Android Studio on your computer.
+1. Install and set up Android Studio on your computer.
 
-2.Open Android Studio, and go to the "Welcome to Android Studio" window.
+2. Open Android Studio, and go to the "Welcome to Android Studio" window.
 
-3.Click on "Configure" and then select "AVD Manager" from the drop-down menu.
+3. Click on "Configure" and then select "AVD Manager" from the drop-down menu.
 
-4.Click on the "Create Virtual Device" button to create a new virtual device.
+4. Click on the "Create Virtual Device" button to create a new virtual device.
 
-5.Select a device from the list and click on "Next"
+5. Select a device from the list and click on "Next"
 
-6.Select a system image (e.g. Android 11) and click "Next"
+6. Select a system image (e.g. Android 11) and click "Next"
 
-7.Give a name to the virtual device and click "Finish"
+7. Give a name to the virtual device and click "Finish"
 
-8.Once the virtual device is created, select it and click on the "Play" button to launch the emulator
+8. Once the virtual device is created, select it and click on the "Play" button to launch the emulator
 
-9.Open the terminal and navigate to the project directory
+9. Open the terminal and navigate to the project directory
 
-10.Run the command "flutter run" or "flutter run -d <emulator-id>" to run the app on the emulator.
+10. Run the command "flutter run" or "flutter run -d <emulator-id>" to run the app on the emulator.
 
-Note: Keep in mind that the first time you run an app on the emulator, it may take some time to start up, so be patient. Also make sure your emulator is running before running the command "flutter run"
+# Note: Keep in mind that the first time you run an app on the emulator, it may take some time to start up, so be patient. Also make sure your emulator is running before running the command "flutter run"
 
 https://user-images.githubusercontent.com/71991617/214118432-1e0cbbfa-b3c8-4b52-8d59-29fca236ee45.mp4
 
