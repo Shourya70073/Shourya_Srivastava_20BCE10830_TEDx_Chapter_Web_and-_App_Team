@@ -3,15 +3,15 @@
 
 ## To build an APK , follow these steps:-
 
-1.Download Dart and Flutter, and set their path variable.
+1. Download Dart and Flutter, and set their path variable.
 
-2.Open the project folder, and then open the terminal.
+2. Open the project folder, and then open the terminal.
 
-3.Execute the command "flutter pub get" to fetch the dependencies of the project.
+3. Execute the command "*flutter pub get*" to fetch the dependencies of the project.
 
-4.After executing the command "flutter pub get", execute "flutter build apk" to build the APK.
+4. After executing the command "*flutter pub get*", execute "*flutter build apk*" to build the APK.
 
-5.The APK will now be ready for use.
+5. The APK will now be ready for use.
 
 
 ## Here are the steps to run an app on an Android emulator:-
