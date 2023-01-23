@@ -1,6 +1,7 @@
-#TedxVIT
+**TedxVIT
 
-#To build an APK , follow these steps:
+
+**To build an APK , follow these steps:
 
 1.Download Dart and Flutter, and set their path variable.
 
@@ -12,7 +13,8 @@
 
 5.The APK will now be ready for use.
 
-#Here are the steps to run an app on an Android emulator:
+
+**Here are the steps to run an app on an Android emulator:
 
 1.Install and set up Android Studio on your computer.
 
