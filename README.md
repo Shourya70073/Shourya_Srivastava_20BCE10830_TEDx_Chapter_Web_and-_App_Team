@@ -42,7 +42,7 @@
 
 1. Connect your Android device to your computer using a USB cable.
 
-2 Make sure that USB debugging is enabled on your device. On most devices, you can do this by going to Settings > About Phone and tapping on the "Build number" multiple times. This will enable the "Developer options" in the settings menu. Go to "Developer options" and enable "USB Debugging".
+2. Make sure that USB debugging is enabled on your device. On most devices, you can do this by going to Settings > About Phone and tapping on the "Build number" multiple times. This will enable the "Developer options" in the settings menu. Go to "Developer options" and enable "USB Debugging".
 
 3. Open the terminal and navigate to the project directory.
 
